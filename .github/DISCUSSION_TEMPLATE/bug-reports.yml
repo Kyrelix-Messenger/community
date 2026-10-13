@@ -1,0 +1,50 @@
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Describe one problem per report.
+        Remove personal information from screenshots and logs.
+        Report security concerns privately to kyrelix.off@gmail.com.
+        English and Russian are welcome.
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Problem description
+      description: What is not working correctly?
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open ...
+        2. Select ...
+        3. Observe ...
+    validations:
+      required: true
+
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+      description: What should happen, and what happens instead?
+    validations:
+      required: true
+
+  - type: input
+    id: environment
+    attributes:
+      label: App version, browser, and operating system
+      placeholder: "Example: Kyrelix Web, Firefox, Windows 11"
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Screenshots or additional details
+      description: Remove private messages and personal information.
