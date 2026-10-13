@@ -26,13 +26,15 @@ The application source code is maintained privately. This repository is dedicate
 | [🐛 Bug Reports](https://github.com/orgs/Kyrelix-Messenger/discussions/categories/bug-reports) | Problems, unexpected behavior, and reproduction steps. |
 | [💬 General](https://github.com/orgs/Kyrelix-Messenger/discussions/categories/general) | Feedback and other conversations about Kyrelix. |
 
-## Get Involved
+## Get involved in the Community
 
 You can help shape Kyrelix by sharing your experience, suggesting improvements, reporting bugs, or answering other users' questions.
 
 English and Russian are welcome.
 
 Before posting, search for similar discussions and include enough detail for others to understand your topic. Keep conversations respectful and remove personal information from screenshots and logs.
+
+Join our community [community discussions](https://github.com/orgs/Kyrelix-Messenger/discussions).
 
 ## Contact
 
