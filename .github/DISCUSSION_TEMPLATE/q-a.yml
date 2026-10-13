@@ -1,0 +1,28 @@
+title: "[Help] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask a question about using Kyrelix.
+        English and Russian are welcome.
+        Do not share passwords, tokens, or private messages.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What are you trying to do, and where do you need help?
+    validations:
+      required: true
+
+  - type: textarea
+    id: attempted
+    attributes:
+      label: What have you tried?
+      description: Include relevant steps or error messages.
+
+  - type: input
+    id: environment
+    attributes:
+      label: App version, browser, and operating system
+      placeholder: "Example: Kyrelix Web, Firefox, Windows 11"
